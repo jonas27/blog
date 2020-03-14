@@ -1,7 +1,7 @@
 ---
 title: "Hello World"
 date: 2020-03-10T08:53:24+01:00
-draft: true
+draft: false
 categories: ["first"]
 tags: ["first"]
 ---

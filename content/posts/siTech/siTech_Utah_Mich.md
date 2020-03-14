@@ -1,7 +1,7 @@
 ---
-title: "Silicon-based Neurotechnology II - Processing Tech Deep Dive"
-date: 2020-03-14T12:19:37+01:00
-draft: false
+title: "Silicon-based Neurotechnology III - Utah Array and Michigan Style probes"
+date: 2020-03-14T18:19:37+01:00
+draft: true
 categories: ["uni", "microsystem"]
 tags: ["summary"]
 ---

@@ -2,11 +2,10 @@
 title: "Silicon-based Neurotechnology I - Intro"
 date: 2020-03-11T10:19:57+01:00
 author: Jonas Burster
-draft: true
+draft: false
 categories: 
     - "uni" 
     - "microsystem"
-    - "SiTech"
 tags: 
     - "summary"
 ---
