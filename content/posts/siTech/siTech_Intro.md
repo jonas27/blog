@@ -1,13 +1,12 @@
 ---
 title: "Silicon-based Neurotechnology I - Intro"
-date: 2020-03-11T10:19:57+01:00
+date: 2020-03-10T10:19:57+01:00
 author: Jonas Burster
 draft: false
 categories: 
     - "uni" 
     - "microsystem"
-tags: 
-    - "summary"
+tags: ["summary", "neuroscience", "silicon"]
 ---
 
 # Silicon-based Neurotechnology
@@ -34,6 +33,9 @@ Afterwards, the probe must be tested in apes. If it is considered "save" enough 
 
 I can't propose a good solution and I am not sure if I am favor of abolishing all work on animals. But, in my opinion we have to always ponder whether science outweighs morality and we definitely have to take the life of these animals serious. As my professor said during a lecture: "We have to remember, after usage we have to through these mice away". It sounds cold hearted but it's the reality.
 
+#### Disclaimer:
+This is just a summary of what I learned and I will try to be as accurate as possible. 
+But there are probably mistakes in the text!
 
-### Citations:
+#### Citations:
 Blood flow in the brain: https://www.urmc.rochester.edu/news/story/4619/study-reveals-brains-finely-tuned-system-of-energy-supply.aspx

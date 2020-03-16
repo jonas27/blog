@@ -214,7 +214,7 @@ uglyURLs = false
         pre = "internal"
         post = "tags"
     [[menu.main]]
-        url = "/about/"
+        url = "/about/about/"
         name = "About"
         weight = 5
         pre = "internal"
@@ -323,15 +323,15 @@ uglyURLs = false
     homeLinksPadding = 1
 
     ## Footage
-    homePoster = ""
+    homePoster = "/cvPicture.png"
     homeVideoWebm = ""
     homeVideoMp4 = ""
-    homeLogo = ""
+    homeLogo = "/cvPicture.png"
     homeLogoLink = ""
-    homeTitle = ""
-    homeMotto = ""
-    homeDescription = ""
-    homeKeywords = ""
+    homeTitle = "hallo"
+    homeMotto = "motto"
+    homeDescription = "desc"
+    homeKeywords = "key"
     homeLinksDelimiter = ""
 
 
@@ -341,7 +341,7 @@ uglyURLs = false
     siteLogo = "/icons/apple-touch-icon.png"
     # Note: used for JSON-LD, Open Graph
 
-    siteDescription = "MemE is a powerful and highly customizable GoHugo theme for personal blogs."
+    siteDescription = "Jonas"
     # Note: used for HTML head meta, JSON-LD,
     #       Open Graph, Atom, RSS
 
