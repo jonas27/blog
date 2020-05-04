@@ -30,7 +30,7 @@ spec:
         app: jblog
     spec:
       containers:
-      - name: katchblog
+      - name: jblog
         image: jonas27test/goserver:latest
         # args: ["-serverCrt", "tls.crt","-serverKey", "tls.key"]
         ports:
@@ -40,7 +40,7 @@ spec:
           containerPort: 4443
         volumeMounts:
           - mountPath: /static
-            name: katchblog-storage
+            name: jblog-storage
       volumes:
       - name: jblog-storage
         hostPath:
