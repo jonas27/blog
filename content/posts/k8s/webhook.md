@@ -140,4 +140,5 @@ webhooks:
       apiGroups: [""]
       apiVersions: ["v1"]
       resources: ["pods"]
+EOF
 ```

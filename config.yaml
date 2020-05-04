@@ -1,0 +1,65 @@
+name: Katch Blog
+license: MIT
+licenselink: 'https://github.com/jonas27/katchtheme/LICENSE.md'
+description: >-
+  A beautiful, responsive blog and homepage theme with support for features like
+  search, math typesetting, and RemarkJS presentations.
+homepage: 'https://jonasburster.de/'
+tags:
+  - Blog
+  - Presentation
+  - Slide
+  - Newsletter
+features:
+  - blog
+  - slides
+  - LaTeX
+  - search
+  - newsletter
+  - math
+  - music
+min_version: '0.47'
+
+author:
+  name: Katja Manser
+  homepage: jonasburster.de
+  baseurl: 'https://jonasburster.de'
+  title: jB
+  paginate: 5
+  buildFuture: true
+
+menu:
+  # social:
+  #   - name: Instagram
+  #     title: fab fa-instagram
+  #     url: 'http://instagram.com/traevolo'
+  main:
+    - name: Archives
+      url: /archives/
+    - name: Categories
+      url: /categories/
+
+params:
+  author: Jonas Burster
+  instagram: traevolo
+  classes: []
+
+
+outputs:
+  home:
+    - HTML
+    - JSON
+    # - RSS
+  page:
+    - HTML
+  # section:
+  #   - HTML
+  #   - RSS
+  # taxonomy:
+  #   - HTML
+  #   - RSS
+  # taxonomyTerm:
+  #   - HTML
+  #   - RSS
+
+theme: katchtheme
