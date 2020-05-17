@@ -5,26 +5,26 @@ description: >-
   A beautiful, responsive blog and homepage theme with support for features like
   search, math typesetting, and RemarkJS presentations.
 homepage: 'https://jonasburster.de/'
-tags:
-  - Blog
-  - Presentation
-  - Slide
-  - Newsletter
+# tags:
+  # - Blog
+  # - Presentation
+  # - Slide
+  # - Newsletter
 features:
   - blog
-  - slides
+  # - slides
   - LaTeX
   - search
-  - newsletter
+  # - newsletter
   - math
-  - music
+  # - music
 min_version: '0.47'
 
 author:
-  name: Katja Manser
+  name: Jonas Burster
   homepage: jonasburster.de
-  baseurl: 'https://jonasburster.de'
-  title: jB
+  baseURL: 'https://jonasburster.de'
+  title: jBlog
   paginate: 5
   buildFuture: true
 

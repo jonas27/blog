@@ -10,7 +10,7 @@ spec:
   - hosts:
     - jonasburster.de
     - www.jonasburster.com
-    # secretName: katchblog-server-tls
+    secretName: jblog-cert
   rules:
   - host: jonasburster.de
     http:

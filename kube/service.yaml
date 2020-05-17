@@ -1,0 +1,21 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: jblog
+  namespace: jblog
+  annotations:
+    cert-gen.name: jblog-cert
+    cert-gen.namespace: jblog
+    cert-gen.dnsNames: "jonasburster.de,www.jonasburster.de"
+    cert-gen.issuer.name: letsencrypt-prod
+    cert-gen.issuer.kind: ClusterIssuer
+spec:
+  ports:
+  - port: 80
+    name: http
+    targetPort: http
+  - port: 443
+    name: https
+    targetPort: https
+  selector:
+    app: jblog
